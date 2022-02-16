@@ -1,3 +1,12 @@
 ﻿  main.cpp
+C:\Users\bkeef\source\repos\BasedEngine\BasedEngine\main.cpp(39,22): warning C4101: 'vpos_location': unreferenced local variable
+C:\Users\bkeef\source\repos\BasedEngine\BasedEngine\main.cpp(39,37): warning C4101: 'vcol_location': unreferenced local variable
+C:\Users\bkeef\source\repos\BasedEngine\BasedEngine\main.cpp(38,39): warning C4101: 'fragment_shader': unreferenced local variable
+C:\Users\bkeef\source\repos\BasedEngine\BasedEngine\main.cpp(38,24): warning C4101: 'vertex_shader': unreferenced local variable
+C:\Users\bkeef\source\repos\BasedEngine\BasedEngine\main.cpp(39,8): warning C4101: 'mvp_location': unreferenced local variable
+C:\Users\bkeef\source\repos\BasedEngine\BasedEngine\main.cpp(38,56): warning C4101: 'program': unreferenced local variable
+C:\Users\bkeef\source\repos\BasedEngine\BasedEngine\main.cpp(38,9): warning C4101: 'vertex_buffer': unreferenced local variable
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\bkeef\source\repos\BasedEngine\x64\Debug\vc120.pdb'; linking object as if no debug info
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
   BasedEngine.vcxproj -> C:\Users\bkeef\source\repos\BasedEngine\x64\Debug\BasedEngine.exe
